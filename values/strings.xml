@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Loginsetup</string>
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+    <string name="enter_confirm_mobile_number">Enter Confirm Mobile Number:</string>
+    <string name="_91">91</string>
+    <string name="_1234567890">1234567890</string>
+    <string name="_911">+91</string>
+    <string name="_913">+91-</string>
+    <string name="enter_the_otp_sent_to">Enter the otp sent to</string>
+    <string name="didnot_receive_an_otp">Didnot receive an otp</string>
+    <string name="didn_t_receive_the_otp">Didn\'t receive the OTP?</string>
+    <string name="resend_otp">RESEND OTP</string>
+</resources>
